@@ -1,2 +1,2 @@
 # disney-clone
-Disney Clone with React JS
+Disney+ clone with React JS (Firebase + Styled Components + Redux)
